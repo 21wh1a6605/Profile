@@ -58,8 +58,6 @@ This project is a personal profile webpage designed using **HTML**, **CSS**, and
 - **Form Screenshot**  
   ![Form Screenshot](scr2.png)
 
-*(Make sure to replace the paths above with the actual image paths in your project folder)*
-
 ---
 
 ## ✅ Conclusion
