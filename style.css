@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background-color: #e0f7fa;
+  color: #333;
+  line-height: 1.6;
+  text-align: center;
+}
+
+header {
+  padding: 2rem;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+}
+
+.photo-container {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 4px solid #00acc1;
+  margin-bottom: 1rem;
+}
+
+.profile-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about-text {
+  max-width: 600px;
+  text-align: center;
+}
+
+.greet {
+  background-color: #ffffff;
+  padding: 2rem;
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.greet input {
+  padding: 10px;
+  width: 60%;
+  margin: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.greet button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #00acc1;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.greet p {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: #00796b;
+}
+
+.contact {
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 600px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.contact input, .contact textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact button {
+  background-color: #00acc1;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background-color: #b2ebf2;
+}
