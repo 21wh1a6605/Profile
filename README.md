@@ -53,10 +53,10 @@ This project is a personal profile webpage designed using **HTML**, **CSS**, and
 > _Include the following screenshots in the repository for documentation:_
 
 - **Page Screenshot**  
-  ![Page Screenshot](scr1.png)
+  ![Page Screenshot](scr1.jpg)
 
 - **Form Screenshot**  
-  ![Form Screenshot](scr2.png)
+  ![Form Screenshot](scr2.jpg)
 
 ---
 
