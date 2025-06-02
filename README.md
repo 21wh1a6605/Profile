@@ -64,7 +64,3 @@ This project is a personal profile webpage designed using **HTML**, **CSS**, and
 
 This project showcases a **clean**, **formal**, and **interactive** personal profile page suitable for **academic** or **professional** purposes. It highlights core web development skills and serves as a **foundation** for building advanced personal or portfolio websites.
 
----
-
-## 📂 Project Structure
-
